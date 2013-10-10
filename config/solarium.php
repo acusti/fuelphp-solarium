@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Solarium: Integration of Solarium into FuelPHP by providing config and calling Autoloader::register (Solarium library is included in /vendor via PHP Composer)
+ * Solarium: Integration of Solarium into FuelPHP by providing config (Solarium library is included in /vendor via PHP Composer)
  *
  * @package	  FuelPHP Solarium
  * @version	  v0.0.1
