@@ -13,10 +13,10 @@ return array(
 	// Endpoints (use to define multiple solr servers or cores)
 	'endpoint' => array(
 		// Server information
-        'localhost' => array(
-            'host' => '127.0.0.1',
-            'port' => 8983,
-            'path' => '/solr/',
-        ),
-	)
+		'localhost' => array(
+			'host' => '127.0.0.1',
+			'port' => 8983,
+			'path' => '/solr/',
+		),
+	),
 );
