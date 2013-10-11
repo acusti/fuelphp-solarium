@@ -1,7 +1,9 @@
 <?php
 
 /**
- * Solarium: Integration of Solarium into FuelPHP by providing config (Solarium library is included in /vendor via PHP Composer)
+ * Solarium: Add support for connection config in FuelPHP for the Solarium Solr library
+ * 
+ * The Solarium library files are included in /vendor via PHP Composer and loaded by Composer's autoload.php
  *
  * @package	  FuelPHP Solarium
  * @version	  v0.0.1
