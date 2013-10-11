@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Solr: Solr wrapper for FuelPHP
+ * Solarium: Adds support for connection config in FuelPHP for the Solarium Solr library
  *
  * @package	  FuelPHP Solarium
  * @version	  v0.0.1
